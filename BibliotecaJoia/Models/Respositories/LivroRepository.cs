@@ -9,6 +9,7 @@ namespace BibliotecaJoia.Models.Respositories
         public List<LivroDto> Listar()
         {
             throw new System.NotImplementedException();
+            return null;
         }
     }
 }
